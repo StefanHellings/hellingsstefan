@@ -9,7 +9,7 @@ Helpfull for Readme:
 <img src="https://raw.githubusercontent.com/hellingsstefan/hellingsstefan/main/github-profile-header-image-2x.png" alt="banner that says Stefan Hellings - Front-end developer" width="100%">
 
 
-## Hello there
+## [Hello there!](https://giphy.com/embed/3ornk57KwDXf81rjWM) <!-- Star Wars Reference -->
 
 I'm Stefan Hellings, I work as a front-end developer for [@Ambassify](ambassify.com). I have a bachelor in communications- and multimediadesign. I'm a creative problem solver, a designer by nature who likes to create digital experiences. From my early days as a hobby, I like to combine my design, UX, and programming skills to make sure users can get the best possible experience.
 
@@ -49,4 +49,4 @@ I'm Stefan Hellings, I work as a front-end developer for [@Ambassify](ambassify.
 
 
 ### Take a look at our Ambassify [Job Board](https://ambssfy.notion.site/Job-Board-6ec53c03fcd94e318e68d98c08080d38)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hellingsstefan.415901372) <!-- username . repo_id -->
