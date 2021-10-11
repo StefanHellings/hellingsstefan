@@ -6,6 +6,8 @@ Helpfull for Readme:
 - https://github.com/anuraghazra/github-readme-stats
 -->
 
+<img src="https://raw.githubusercontent.com/hellingsstefan/hellingsstefan/main/github-profile-header-image-2x.png" alt="banner that says Stefan Hellings - Front-end developer" width="100%">
+
 
 ## Hello there
 
