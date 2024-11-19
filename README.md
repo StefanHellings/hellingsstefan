@@ -44,9 +44,9 @@ I'm Stefan Hellings, I work as a front-end developer for [@Ambassify](https://gi
 
 
 ### Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellingsstefan&layout=compact)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellingsstefan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanHellings&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefanHellings&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-### Take a look at our Ambassify [Job Board](https://www.ambassify.com/company/vacancies?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=hellingsstefan)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hellingsstefan.415901372) <!-- username . repo_id -->
+### Take a look at our Ambassify [Job Board](https://www.ambassify.com/company/vacancies?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=StefanHellings)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=StefanHellings.415901372) <!-- username . repo_id -->
